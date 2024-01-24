@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activate_reminders: false
+  due_date_reminder_interval: 1
+  due_date_reminder_option: 1
+  due_date_reminder_time: 2024-01-23 21:36:23
+  time_zone: MyString
+
+two:
+  activate_reminders: false
+  due_date_reminder_interval: 1
+  due_date_reminder_option: 1
+  due_date_reminder_time: 2024-01-23 21:36:23
+  time_zone: MyString
